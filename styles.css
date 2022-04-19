@@ -1,0 +1,139 @@
+
+
+h3
+{
+    font-size: 50px;
+}
+header
+{   
+    background-color: aquamarine;
+}
+header::after
+{
+   
+    display: table;
+    clear: both;
+}
+h1
+{
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size:44px;
+}
+.logo
+{
+    float: left;
+}
+nav
+{
+float: right;
+}
+nav ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li
+{
+    display: inline-block;
+    margin: 0 35px;
+    margin-left: 70px ;
+    padding-top: 23px;
+}
+nav a
+{   
+    color: black;
+    font-size: 16px;
+
+}
+body
+{
+    background-color: aquamarine;
+}
+P
+{
+    font-size: 45px;
+    text-align: center;
+}
+.Logoim
+{
+    height: 32px;
+}
+.card
+{
+background: chocolate;
+}
+.about_container
+{
+    background: azure;
+}
+.Sakura_IMG
+{
+    height: 200px;
+}
+.DragonBall_IMG
+{
+    height: 200px;
+}
+.Naruto_IMG
+{
+    height: 200px;
+}
+.Card2
+{
+    background: chocolate;
+}
+.Card3
+{
+    background: chocolate;
+}
+.text
+{
+    background: white;
+    text-align: center;
+    font-size: 32px;
+}
+.text2
+{
+    background: white;
+    text-align: center;
+    font-size: 32px;
+}
+.text3
+{
+    background:white;
+    text-align: center;
+    font-size: 32px;
+}
+.title
+{
+    font-size: 42px;
+    text-align: center;
+}
+.Title2
+
+{
+    font-size: 42px;
+    text-align: center;
+}
+.Title3
+{
+    font-size: 42px;
+    text-align: center;
+}
+.Add_Cart
+{
+    height: 86px;
+    width: 200px;
+    
+}
+.Add_Cart2
+{
+    height: 86px;
+    width: 200px;
+}
+.Add_Cart3
+{
+    height: 86px;
+    width: 200px;
+}
